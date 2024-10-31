@@ -1,0 +1,2 @@
+Kastovanje predstavlja pretvaranje jednog tipa podataka u drugi
+Izvrsava se tako sto se tip podataka stavlja unutar malih zagrada kada se deklarise promenjiva

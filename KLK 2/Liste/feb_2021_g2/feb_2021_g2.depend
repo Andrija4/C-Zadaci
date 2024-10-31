@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675448446 source:c:\users\andrija\desktop\uup\klk 2 zadacici\liste\feb_2021_g2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

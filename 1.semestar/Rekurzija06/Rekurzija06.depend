@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641937440 source:c:\users\andrija\desktop\rekurzija06\main.c
+	<stdio.h>
+	<stdlib.h>
+

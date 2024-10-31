@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675467080 source:c:\users\andrija\desktop\uup\klk 2 zadacici\stabla\stabla_proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674254671 source:c:\users\andrija\desktop\uup\klk 2 zadacici\matrice\mat_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

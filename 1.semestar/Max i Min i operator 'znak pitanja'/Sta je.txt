@@ -1,0 +1,3 @@
+max i min su funkcije pomoc kojih se nalazi min i max broj izmedju dveju promenjivih
+? je operator koji najpre ispita tacnost izraza. Ako je T onda izlazi 1. rezultat a ako je N onda izlazi 2. rezultat
+(izraz T ili N) ? (rezultat.1):(rezultat.2)

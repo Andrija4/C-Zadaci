@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675188943 source:c:\users\andrija\desktop\uup\klk 2 zadacici\fajlovi\fajlovi v02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

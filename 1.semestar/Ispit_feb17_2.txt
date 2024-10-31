@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+double izracunajGornji(int i){
+    double rezultat = 1.0, f1=1.0, f2=1.0;
+
+    for(int j=1; j<i; j++){
+
+        rezultat = f1 + f2;
+        f1 = f2;
+        f2 = rezultat;
+
+    }
+
+    return rezultat;
+}
+
+double rek(int i, int n){
+
+    double gornji, donji;
+
+    if(i == n-1)
+        return sqrtf(gornji);
+
+    donji = pow(2.0, n-i);
+    gornji = izracunajGornji(i);
+
+    if(i%2==0)
+        return sqrtf(gornji/donji + rek(i+1, n));
+
+    else
+        return sqrtf(gornji + rek(i+1, n));
+
+}
+
+int main()
+{
+    int n;
+    scanf("%d", &n);
+
+    printf("%lf", rek(0, n));
+    return 0;
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642537689 source:c:\users\andrija\desktop\rekurzija_f_2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

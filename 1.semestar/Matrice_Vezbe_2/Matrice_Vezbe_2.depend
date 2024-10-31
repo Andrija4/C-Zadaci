@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642795193 source:c:\users\andrija\desktop\matrice_vezbe_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

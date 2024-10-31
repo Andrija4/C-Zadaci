@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674935575 source:c:\users\andrija\desktop\uup\listeproba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674997105 source:c:\users\andrija\desktop\uup\klk 2 zadacici\liste\listeproba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

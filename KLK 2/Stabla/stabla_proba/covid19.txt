@@ -1,0 +1,21 @@
+alpha;monitored;UK;2020
+69–70del
+N501Y
+P681H
+beta;monitored;South Africa;2020
+K417N
+E484K
+N501Y
+gamma;monitored;Brazil;2020
+K417T
+E484K
+N501Y
+delta;monitored;India;2020
+L452R
+T478K
+P681R
+omicron;concern;South Africa;2020
+P681H
+N440K
+N501Y
+S477N

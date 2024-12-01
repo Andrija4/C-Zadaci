@@ -1,17 +1,20 @@
-#C-Zadaci
+
+Naravno! Evo primera kako može izgledati README.md fajl za taj repozitorijum:
+
+C-Zadaci
 Ovaj repozitorijum sadrži kolekciju zadataka napisanih u programskom jeziku C. Zadaci su organizovani tako da pomognu u učenju i vežbanju različitih koncepata programiranja u jeziku C, kao što su osnovne operacije, rad sa nizovima, pokazivačima, datotekama, i mnogi drugi.
 
 Sadržaj
--Osnovni zadaci
-  Jednostavni zadaci koji obuhvataju osnovne operacije, rad sa grananjima, petljama i funkcijama.
--Rad sa nizovima
-  Primeri koji pokazuju manipulaciju nizovima, sortiranje, pretragu i druge operacije.
--Pokazivači
-  Zadaci koji ilustruju rad sa pokazivačima, dinamičkom alokacijom memorije i pokazivačkim aritmetikama.
--Datoteke
-  Rad sa datotekama: čitanje, pisanje i manipulacija podacima.
--Struktura
-  Svi zadaci su organizovani po temama u odgovarajućim fajlovima sa ekstenzijom .c. Na primer:
+Osnovni zadaci
+Jednostavni zadaci koji obuhvataju osnovne operacije, rad sa grananjima, petljama i funkcijama.
+Rad sa nizovima
+Primeri koji pokazuju manipulaciju nizovima, sortiranje, pretragu i druge operacije.
+Pokazivači
+Zadaci koji ilustruju rad sa pokazivačima, dinamičkom alokacijom memorije i pokazivačkim aritmetikama.
+Datoteke
+Rad sa datotekama: čitanje, pisanje i manipulacija podacima.
+Struktura
+Svi zadaci su organizovani po temama u odgovarajućim fajlovima sa ekstenzijom .c. Na primer:
 
 markdown
 Copy code
@@ -41,4 +44,3 @@ Ovaj repozitorijum je kreirao Andrija4. Slobodno doprinesite svojim zadacima ili
 
 Licence
 Ovaj projekat nema specifičnu licencu, pa se koristi "as-is". Ukoliko želite da doprinesete, otvorite pull request ili pokrenite diskusiju preko issues.
-

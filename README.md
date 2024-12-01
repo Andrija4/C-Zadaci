@@ -18,22 +18,13 @@ Ovaj repozitorijum sadrži kolekciju zadataka napisanih u programskom jeziku **C
 Svi zadaci su organizovani po temama u odgovarajućim fajlovima sa ekstenzijom `.c`. Na primer:
 /OsnovniZadaci/ zadatak1.c zadatak2.c /Pokazivaci/ zadatak1.c zadatak2.c
 
-markdown
-Copy code
-
 ## Kako koristiti
 
 1. Klonirajte repozitorijum:
 git clone https://github.com/Andrija4/C-Zadaci.git cd C-Zadaci
-
-css
-Copy code
 2. Otvorite željeni fajl sa kodom i pregledajte zadatak.
 3. Kompajlirajte i pokrenite zadatak koristeći C kompajler, na primer:
 gcc -o zadatak1 OsnovniZadaci/zadatak1.c ./zadatak1
-
-markdown
-Copy code
 
 ## Zahtevi
 
